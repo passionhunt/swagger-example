@@ -1,0 +1,5 @@
+com/passionhunt/ai/swaggerexample/config/SwaggerConfig.class
+com/passionhunt/ai/swaggerexample/resources/HelloResource.class
+com/passionhunt/ai/swaggerexample/SwaggerExampleApplication.class
+com/passionhunt/ai/swaggerexample/resources/model/User.class
+com/passionhunt/ai/swaggerexample/resources/UserResource.class
